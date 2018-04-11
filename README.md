@@ -3,10 +3,13 @@ In recent times, toxicological classification of chemical compounds is considere
 
 
 # Descreption of the files in each folder of Tox21 Tasks
-There are total of 12 Tox21 Tasks. There is a separate projeect folder for each task.
+There are total of 12 Tox21 Tasks. There is a separate project folder for each task.
 
-Titles and Section headers
+Data
 --------------------------
-Train, Test and CV data files
+Train, Test and CV data files. These .xlsx files contain 2D features for training, cross-validation and test. 
+
+Jupyter Notebook file for training the individual model with optimized parameters
+--------------------------
 
 
