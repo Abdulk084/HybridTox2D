@@ -11,5 +11,11 @@ Train, Test and CV data files. These .xlsx files contain 2D features for trainin
 
 Jupyter Notebook file for training the individual model with optimized parameters
 --------------------------
+Each folder has a jupyter notebook file with a name task_code.ipynb. Here the task refers to spesific task name. please note that all the necessary libraries must be installed. This part creates 4 individual models for a spesific task and then ensamble it. This also creates a list of selected features and select the reduced number of features from test set for the final testing.
+
+Jupyter Notebook file checking the reported results in the paper
+--------------------------
+The notebook file with a name Saved_Model_Checking takes the selected features from the test set and the 4 already trainined models with all parameters to reproduce the same results as reported in the paper.
+
 
 
