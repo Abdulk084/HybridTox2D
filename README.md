@@ -7,7 +7,7 @@ There are total of 12 Tox21 Tasks. There is a separate project folder for each t
 
 --Data
 --------------------------
-Train, Test and CV data files. These .xlsx files contain 2D features for training, cross-validation and test. 
+Train, Test and CV data files. These .xlsx files contain 2D features for training, cross-validation and test. Moreover, the feature_name.xlsx containes the names of the features selected for individual task.
 
 --Jupyter Notebook file for training the individual model with optimized parameters
 --------------------------
@@ -16,6 +16,5 @@ Each folder has a jupyter notebook file with a name task_code.ipynb. Here the ta
 --Jupyter Notebook file checking the reported results in the paper
 --------------------------
 The notebook file with a name Saved_Model_Checking takes the selected features from the test set and the 4 already trainined models with all parameters to reproduce the same results as reported in the paper.
-
 
 
