@@ -36,11 +36,9 @@ IGC50, LD50, LC50DM and LC50.
 -----------------------------------------------------------------------------------------
 
 # Descreption of the necessary files in each folder to run the models on tests sets
-There are total of 12 Tox21 Tasks. There is a separate project folder for each task.
+There are total of 17 Toxicity Tasks. Each folder contain trained models and test set. The python code 
+to verify the results on tests sets is also given. 
 
---Data
---------------------------
-Train, Test and CV data files. These .xlsx files contain 2D features for training, cross-validation and test. Moreover, the feature_name.xlsx containes the names of the features selected for individual task.
 
 
 
