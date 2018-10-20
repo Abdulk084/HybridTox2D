@@ -46,4 +46,6 @@ to verify the results on tests sets is also given.
 --------------------------
 The notebook file with a name Saved_Model_Checking takes the selected features from the test set and the 4 already trainined models with all parameters to reproduce the same results as reported in the paper.
 
-
+--Hybrid Model code
+--------------------------
+This file contains the generic code for Hybrid Model.
