@@ -117,4 +117,4 @@ Imputed_Data_input_norm = (Imputed_Data_input - Imputed_Data_input_mean)/Imputed
 #Adding names and labels to the data again
 frames = [data_names,data_labels, Imputed_Data_input_norm]
 full_data_norm = pd.concat(frames,axis=1)
-d
+
