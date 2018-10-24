@@ -2,6 +2,9 @@
 
 ## Under review in Ameical Chemical Society (ACS-Omega)
 
+### Submission date: 29-Apr-2018
+
+
 In recent times, toxicological classification of chemical compounds is considered to
 be a grand challenge for pharmaceutical and environment regulators. Advancement in
 machine learning techniques has enabled efficient toxicity prediction pipelines. Random
