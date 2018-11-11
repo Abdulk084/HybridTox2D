@@ -43,18 +43,18 @@ IGC50, LD50, LC50DM and LC50.
 
 # System setup
 Install the following packges.
-  pip install jupyter<br/>
-  Pip install Tensorflow<br/>
-  Pip install Keras<br/>
-  Pip install sklearn<br/>
-  Pip install PIL<br/>
-  Pip install pandas<br/>
-  Pip install numpy<br/>
-  Pip install scipy<br/>
-  Pip install openpyxl<br/>
-  Pip install xlsxwriter<br/>
-  Pip install h5py<br/>
-  Pip install matplotlib<br/>
+      pip install jupyter<br/>
+      Pip install Tensorflow<br/>
+      Pip install Keras<br/>
+      Pip install sklearn<br/>
+      Pip install PIL<br/>
+      Pip install pandas<br/>
+      Pip install numpy<br/>
+      Pip install scipy<br/>
+      Pip install openpyxl<br/>
+      Pip install xlsxwriter<br/>
+      Pip install h5py<br/>
+      Pip install matplotlib<br/>
  
 
 -----------------------------------------------------------------------------------------
@@ -62,7 +62,7 @@ Install the following packges.
 # System Test
  Run the following code in the terminal to test the system if all the libraries are installed.
  
-     python import_packgaes
+     python import_packgaes.py
 -----------------------------------------------------------------------------------------
 
 # Descreption of the necessary files in each folder to run the models on tests sets
