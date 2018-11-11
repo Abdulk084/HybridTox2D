@@ -73,7 +73,7 @@ to verify the results on tests sets is also given.<br/>
 
 cd into one of the folders<br/>
 open jupyter notebook<br/>
-run the file "Saved_Model_Checking". It will take the "selected_test" set and run the trained (4 ensembled models) to reproduce the same results. The "selected_test" is a test test with selected features.
+Run the file "Saved_Model_Checking". It will take the "selected_test" set and run the trained (4 ensembled models) to reproduce the same results. The "selected_test" is a test test with selected features.
 
 
 
