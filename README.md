@@ -42,7 +42,7 @@ IGC50, LD50, LC50DM and LC50.
 -----------------------------------------------------------------------------------------
 
 # System setup
-Install the following packges.
+Install the following packges.<br/>
       pip install jupyter<br/>
       Pip install Tensorflow<br/>
       Pip install Keras<br/>
