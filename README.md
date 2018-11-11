@@ -69,11 +69,11 @@ Install the following packges.<br/>
 
 # Descreption of the necessary files in each folder to run the models on tests sets
 There are total of 17 Toxicity Tasks. Each folder contain trained models and test set. The python code 
-to verify the results on tests sets is also given.
+to verify the results on tests sets is also given.<br/>
 
-cd into one of the folders/
-open jupyter notebook/
-run the file "Saved_Model_Checking". It will take the "selected_test" set and run the trained (4 ensembled model) to reproduce the same results. The "selected_test" is a test test with selected features.
+cd into one of the folders<br/>
+open jupyter notebook<br/>
+run the file "Saved_Model_Checking". It will take the "selected_test" set and run the trained (4 ensembled models) to reproduce the same results. The "selected_test" is a test test with selected features.
 
 
 
