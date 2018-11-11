@@ -42,17 +42,17 @@ IGC50, LD50, LC50DM and LC50.
 -----------------------------------------------------------------------------------------
 
 # System setup
-  Pip install Tensorflow
-  Pip install Keras
-  Pip install sklearn
-  Pip install PIL
-  Pip install pandas
-  Pip install numpy
-  Pip install scipy
-  Pip install openpyxl
-  Pip install xlsxwriter
-  Pip install h5py
-  Pip install matplotlib
+  Pip install Tensorflow<br/>
+  Pip install Keras<br/>
+  Pip install sklearn<br/>
+  Pip install PIL<br/>
+  Pip install pandas<br/>
+  Pip install numpy<br/>
+  Pip install scipy<br/>
+  Pip install openpyxl<br/>
+  Pip install xlsxwriter<br/>
+  Pip install h5py<br/>
+  Pip install matplotlib<br/>
  
 
 -----------------------------------------------------------------------------------------
