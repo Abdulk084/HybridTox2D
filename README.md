@@ -57,9 +57,55 @@ IGC50, LD50, LC50DM and LC50.
 
 -----------------------------------------------------------------------------------------
 
-# Descreption of the necessary files in each folder to run the models on tests sets
-There are total of 17 Toxicity Tasks. Each folder contain trained models and test set. The python code 
-to verify the results on tests sets is also given. 
+# System Test
+Open a jupyter notebook and run the following code to test the system if all libraries are properly installed.
+
+
+
+from keras.callbacks import ModelCheckpoint<br/>
+from keras import backend as K<br/>
+from keras import optimizers<br/>
+from keras.layers import Dense<br/>
+from keras.layers import Dense, Dropout<br/>
+from keras.models import Sequential<br/>
+from keras.wrappers.scikit_learn import KerasClassifier<br/>
+from pandas import ExcelFile<br/>
+from pandas import ExcelWriter<br/>
+from PIL import Image<br/>
+from scipy import ndimage<br/>
+from scipy.stats import randint as sp_randint<br/>
+from sklearn.base import BaseEstimator<br/>
+from sklearn.base import TransformerMixin<br/>
+from sklearn.ensemble import ExtraTreesClassifier<br/>
+from sklearn.ensemble import RandomForestClassifier<br/>
+from sklearn.feature_selection import SelectFromModel<br/>
+from sklearn import datasets<br/>
+from sklearn import metrics<br/>
+from sklearn import pipeline<br/>
+from sklearn.metrics import roc_auc_score, roc_curve<br/>
+from sklearn.model_selection import cross_val_score<br/>
+from sklearn.model_selection import GridSearchCV<br/>
+from sklearn.model_selection import PredefinedSplit<br/>
+from sklearn.model_selection import RandomizedSearchCV<br/>
+from sklearn.model_selection import ShuffleSplit<br/>
+from sklearn.model_selection import StratifiedKFold<br/>
+from sklearn.model_selection import train_test_split<br/>
+from sklearn.pipeline import Pipeline<br/>
+from sklearn.preprocessing import FunctionTransformer<br/>
+from sklearn.preprocessing import Imputer<br/>
+from sklearn.preprocessing import LabelEncoder<br/>
+from sklearn.preprocessing import StandardScaler<br/>
+from sklearn.utils import resample<br/>
+from tensorflow.python.framework import ops<br/>
+import h5py<br/>
+import keras
+import matplotlib.pyplot as plt<br/>
+import numpy as np<br/>
+import openpyxl<br/>
+import pandas as pd<br/>
+import scipy<br/>
+import tensorflow as tf<br/>
+import xlsxwriter<br/>
 -----------------------------------------------------------------------------------------
 
 # Descreption of the necessary files in each folder to run the models on tests sets
