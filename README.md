@@ -62,7 +62,7 @@ Install the following packges.
 # System Test
  Run the following code in the terminal to test the system if all the libraries are installed.
  
- python import_packgaes
+     python import_packgaes
 -----------------------------------------------------------------------------------------
 
 # Descreption of the necessary files in each folder to run the models on tests sets
