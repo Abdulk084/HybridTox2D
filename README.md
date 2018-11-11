@@ -41,7 +41,7 @@ IGC50, LD50, LC50DM and LC50.
 
 -----------------------------------------------------------------------------------------
 
-# System setup
+# System Setup
 Install the following packges.<br/>
       pip install jupyter<br/>
       Pip install Tensorflow<br/>
