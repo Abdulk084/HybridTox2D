@@ -66,8 +66,9 @@ Install the following packges.<br/>
 -----------------------------------------------------------------------------------------
 
 # Descreption of the necessary files in each folder to run the models on tests sets
-There are total of 17 Toxicity Tasks. Each folder contain trained models and test set. The python code 
-to verify the results on tests sets is also given. 
+
+  There are are total of 17 toxicity tasks. The folder containing the trained models , code to test the train models on test test for   each task is given. 
+  
 -----------------------------------------------------------------------------------------
 
 # Descreption of the necessary files in each folder to run the models on tests sets
