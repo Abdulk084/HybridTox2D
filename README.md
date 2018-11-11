@@ -73,18 +73,9 @@ to verify the results on tests sets is also given.<br/>
 
 cd into one of the folders<br/>
 open jupyter notebook<br/>
-Run the file "Saved_Model_Checking". It will take the "selected_test" set and run the trained (4 ensembled models) to reproduce the same results. The "selected_test" is a test test with selected features.
+Run the file "Saved_Model_Checking". The notebook file with a name Saved_Model_Checking takes the selected features from the test set and the 4 already trainined models with all parameters to reproduce the same results as reported in the paper. The "selected_test" is a test set with selected features.
 
 
-
-
-
-
-
-
---Jupyter Notebook file checking the reported results in the paper
---------------------------
-The notebook file with a name Saved_Model_Checking takes the selected features from the test set and the 4 already trainined models with all parameters to reproduce the same results as reported in the paper.
 
 --Hybrid Model code
 --------------------------
