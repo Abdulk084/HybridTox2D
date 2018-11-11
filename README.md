@@ -41,10 +41,35 @@ IGC50, LD50, LC50DM and LC50.
 
 -----------------------------------------------------------------------------------------
 
+# System setup
+Pip install Tensorflow
+Pip install Keras
+Pip install sklearn
+Pip install PIL
+Pip install pandas
+Pip install numpy
+Pip install scipy
+Pip install openpyxl
+Pip install xlsxwriter
+Pip install h5py
+Pip install matplotlib
+ 
+
+-----------------------------------------------------------------------------------------
+
 # Descreption of the necessary files in each folder to run the models on tests sets
 There are total of 17 Toxicity Tasks. Each folder contain trained models and test set. The python code 
 to verify the results on tests sets is also given. 
+-----------------------------------------------------------------------------------------
 
+# Descreption of the necessary files in each folder to run the models on tests sets
+There are total of 17 Toxicity Tasks. Each folder contain trained models and test set. The python code 
+to verify the results on tests sets is also given. 
+-----------------------------------------------------------------------------------------
+
+# Descreption of the necessary files in each folder to run the models on tests sets
+There are total of 17 Toxicity Tasks. Each folder contain trained models and test set. The python code 
+to verify the results on tests sets is also given. 
 
 
 
