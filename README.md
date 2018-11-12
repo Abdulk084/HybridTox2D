@@ -94,6 +94,8 @@ AM benchmark data set:(https://doc.ml.tu-berlin.de/toxbenchmark/)
 IGC50, LD50, LC50-DM, and LC-50 data sets: These data sets can be obtained from the authors of (https://pubs.acs.org/doi/abs/10.1021/acs.jcim.7b00558)
 
 
+It should be noted that after obtaining the data, it should be converted into 2d features using Padel descriptors given below.
 
+(http://www.yapcwsoft.com/dd/padeldescriptor/)
 
 
