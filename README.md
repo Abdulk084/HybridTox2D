@@ -78,6 +78,6 @@ Run the file "Saved_Model_Checking". The notebook file with a name Saved_Model_C
 
 
 
---Hybrid Model code
---------------------------
-This file contains the generic code for Hybrid Model.
+# Training the models with optimized parameters
+
+As we have done the optimization already and obtained the optimized values given in the exel file "S2.pdf" In order to train the model with these optimized using the code.ipynb file. 
