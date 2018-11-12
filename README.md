@@ -87,11 +87,11 @@ As we have done the optimization already and obtained the optimized values given
 We provide the original links to the data sets as follows.
 
 
-SR,NR data sets:\href{https://tripod.nih.gov/tox21/challenge/}{Tox21 Data Challenge 2014} 
+SR,NR data sets:(https://tripod.nih.gov/tox21/challenge/)
   
-AM benchmark data set:\href{https://doc.ml.tu-berlin.de/toxbenchmark/}{toxbenchmark}
+AM benchmark data set:(https://doc.ml.tu-berlin.de/toxbenchmark/)
 
-IGC50, LD50, LC50-DM, and LC-50 data sets: These data sets can be obtained from the authors of \href{https://pubs.acs.org/doi/abs/10.1021/acs.jcim.7b00558}{TopTox}
+IGC50, LD50, LC50-DM, and LC-50 data sets: These data sets can be obtained from the authors of (https://pubs.acs.org/doi/abs/10.1021/acs.jcim.7b00558)
 
 
 
