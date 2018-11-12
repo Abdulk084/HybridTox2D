@@ -80,4 +80,4 @@ Run the file "Saved_Model_Checking". The notebook file with a name Saved_Model_C
 
 # Training the models with optimized parameters
 
-As we have done the optimization already and obtained the optimized values given in the exel file "S2.pdf". The models can be trained using data (train and cross-validation only) from the original sources of the data. We provide the self explainatory code "code.ipynb" to train the models.
+As we have done the optimization already and obtained the optimized values given in the exel file "S2.pdf". The models can be trained using data (train and cross-validation only) from the original sources of the data and paramters provided in "S2.pdf". We provide the self explainatory code "code.ipynb" to train the models.
