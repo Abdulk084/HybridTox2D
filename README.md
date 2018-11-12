@@ -81,3 +81,19 @@ Run the file "Saved_Model_Checking". The notebook file with a name Saved_Model_C
 # Training the models with optimized parameters
 
 As we have done the optimization already and obtained the optimized values given in the file "S2.pdf". The models can be trained using data (train and cross-validation only) from the original sources of the data and paramters provided in "S2.pdf". We provide the self explainatory code "code.ipynb" to train the models.
+
+
+# Data from the original sources
+We provide the original links to the data sets as follows.
+
+
+SR,NR data sets:\href{https://tripod.nih.gov/tox21/challenge/}{Tox21 Data Challenge 2014} 
+  
+AM benchmark data set:\href{https://doc.ml.tu-berlin.de/toxbenchmark/}{toxbenchmark}
+
+IGC50, LD50, LC50-DM, and LC-50 data sets: These data sets can be obtained from the authors of \href{https://pubs.acs.org/doi/abs/10.1021/acs.jcim.7b00558}{TopTox}
+
+
+
+
+
