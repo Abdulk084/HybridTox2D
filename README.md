@@ -1,7 +1,7 @@
 # Hybrid_Model_Tox2D_Abstract
 
 ## Published in Ameical Chemical Society (ACS-Omega)
-
+## Link to the paper
 https://pubs.acs.org/doi/10.1021/acsomega.8b03173
 
 
