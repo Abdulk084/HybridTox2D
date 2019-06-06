@@ -1,6 +1,6 @@
 # Hybrid_Model_Tox2D_Abstract
 
-## Under review in Ameical Chemical Society (ACS-Omega)
+## Published in Ameical Chemical Society (ACS-Omega)
 
 ### Submission date: 29-Apr-2018
 
