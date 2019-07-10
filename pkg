@@ -1,0 +1,12 @@
+pip install jupyter
+Pip install Tensorflow
+Pip install Keras
+Pip install sklearn
+Pip install PIL
+Pip install pandas
+Pip install numpy
+Pip install scipy
+Pip install openpyxl
+Pip install xlsxwriter
+Pip install h5py
+Pip install matplotlib
